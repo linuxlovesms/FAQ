@@ -1,7 +1,7 @@
 #Linux на Azure - поддерживаемые дистрибутивы
 
 Часть дистрибутивов, поддерживаемых в Azure, предоставляется партнёрами Microsoft, часть - сообществом. Для тех дистрибутивов, которых нет в галерее образов, можно воспользоваться [инструкцией](virtual-machines-linux-classic-create-upload-vhd.md) и загрузить подготовленный собственноручно образ. 
-<iframe src="https://channel9.msdn.com/Events/Build/2016/C906/player?format=html5" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
+![Плющенко](http://www.youtube.com/watch?v=jFchAFFMXTM)
 ## Поддерживаемые дистрибутивы и версии ##
 
 Linux Integration Services (LIS) для Hyper-V и Azure - модули, которые контрибьютятся Microsoft напрямую в upstream-kernel Linux. Эти драйвера могут встраиваться в ядро по умолчанию, либо, для старых дистрибутивов RHEL/CentOS загружаться [отдельно](http://go.microsoft.com/fwlink/?LinkID=403033&clcid=0x409). 
